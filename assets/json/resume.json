@@ -6,7 +6,7 @@
     "email": "manuel.pena@upm.es",
     "phone": "",
     "url": "https://mpenar.github.io/",
-    "summary": "s",
+    "summary": "",
     "location": {
       "address": "Calle Luis Ortiz Berrocal",
       "postalCode": "33203",
@@ -51,10 +51,32 @@
       "url": "https://www.uzh.ch/",
       "area": "Aerospace Engineering",
       "studyType": "PhD",
-      "startDate": "2015-01-09",
+      "startDate": "2015-09-01",
       "endDate": "2021-03-21",
       "score": "cum laude",
-      "courses": [""]
+      "courses": ["name of the thesis"]
+    },
+    {
+      "institution": "Universidad Politécnica de Madrid",
+      "location": "Madrid, Spain",
+      "url": "https://www.uzh.ch/",
+      "area": "Industrial Mathematics",
+      "studyType": "M.Sc",
+      "startDate": "2015-09-01",
+      "endDate": "2017-06-18",
+      "score": "8ish",
+      "courses": ["name of the masther thesis"]
+    },
+    {
+      "institution": "Universidad Politécnica de Madrid",
+      "location": "Madrid, Spain",
+      "url": "https://www.uzh.ch/",
+      "area": "Aerospace Engineering",
+      "studyType": "M.Eng",
+      "startDate": "2009-09-01",
+      "endDate": "2015-11-21",
+      "score": "8ish",
+      "courses": ["name of the M.Thesis"]
     }
   ],
   "awards": [
