@@ -12,7 +12,7 @@ profile:
     <p><b>Departamento de Matemática</b></p>
     <p>Universidad de Oviedo</p>
     <p>Escuela Politécnica de Ingeniería,</p>
-    <p>33203 Gijón, Spain</p>
+    <p>33203 Gijón, España</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
