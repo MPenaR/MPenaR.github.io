@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Gijón, State 12345</p>
+    <p><b>Departamento de Matemática</b></p>
+    <p>Universidad de Oviedo</p>
+    <p>Escuela Politécnica de Ingeniería,</p>
+    <p>33203 Gijón, Spain</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
