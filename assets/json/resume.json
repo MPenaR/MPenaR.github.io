@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Manuel Pena",
+    "label": "Aerospace Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "manuel.pena@upm.es",
+    "phone": "",
+    "url": "https://mpenar.github.io/",
+    "summary": "s",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
