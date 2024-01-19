@@ -8,17 +8,17 @@
     "url": "https://mpenar.github.io/",
     "summary": "s",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Calle Luis Ortiz Berrocal",
+      "postalCode": "33203",
+      "city": "Gijón",
+      "countryCode": "Spain",
+      "region": "Asturias"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -46,15 +46,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Universidad Politécnica de Madrid",
+      "location": "Madrid, Spain",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Aerospace Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2015-01-09",
+      "endDate": "2021-03-21",
+      "score": "cum laude",
+      "courses": [""]
     }
   ],
   "awards": [
@@ -150,7 +150,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
