@@ -54,7 +54,7 @@ horizontal: false
   </div>
   {% else %}
   <div class="grid">
-    {% for projct in sorted_courses %}
+    {% for project in sorted_courses %}
       {% include projects.liquid %}
     {% endfor %}
   </div>
