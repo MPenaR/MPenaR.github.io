@@ -39,7 +39,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_courses = site.teaching | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
@@ -47,14 +47,14 @@ horizontal: false
 
   <div class="container">
     <div class="row row-cols-2">
-    {% for project in sorted_projects %}
+    {% for course in sorted_courses %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="grid">
-    {% for project in sorted_projects %}
+    {% for course in sorted_courses %}
       {% include projects.liquid %}
     {% endfor %}
   </div>
