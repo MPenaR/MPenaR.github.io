@@ -7,5 +7,4 @@ importance: 1
 category: math
 related_publications: true
 ---
-
-A course on numerical methods.
+All the codes can be found [here](https://mpenar.github.io/NumericalMethods/docs/index.html)

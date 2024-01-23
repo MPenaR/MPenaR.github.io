@@ -1,8 +1,8 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 permalink: /teaching/
-description: courses given.
+description: Here you can find a list of the courses I've taught over the years.
 nav: true
 nav_order: 6
 # display_categories: [work, fun]
