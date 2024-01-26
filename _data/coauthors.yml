@@ -1,11 +1,11 @@
-"acarpio":
-  - firstname: ["Ana Carpio", "A Carpio", "A. Carpio"]
+"carpio":
+  - firstname: ["Ana", "A", "A."]
     url: https://blogs.mat.ucm.es/acarpio/
 
-"pmonk":
-  - firstname: ["Peter Monk", "P Monk", "P. Monk"]
+"monk":
+  - firstname: ["Peter", "P", "P."]
     url: https://sites.udel.edu/monk/
 
-"vselgas":
-  - firstname: ["Virginia Selgas", "V Selgas", "V. Selgas"]
+"selgas":
+  - firstname: ["Virginia", "V", "V."]
     url: www.virginiaselgas.com

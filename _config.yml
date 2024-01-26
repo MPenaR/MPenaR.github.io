@@ -277,7 +277,7 @@ scholar:
   last_name: [Pena]
   first_name: [Manuel, M., M]
 
-  style: ams-review
+  style: ams
   locale: en
 
   source: /_bibliography/
