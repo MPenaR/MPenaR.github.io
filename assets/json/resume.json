@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Manuel Pena",
-    "label": "Aerospace Engineer",
+    "label": "",
     "image": "",
     "email": "manuel.pena@upm.es",
     "phone": "",
@@ -49,7 +49,18 @@
       "startDate": "2009-09-01",
       "endDate": "2015-11-21",
       "score": "7.31",
-      "courses": ["High polynomial degree DG-FEM for multigroup radiative transfer equations on triangular unstructured meshes"]
+      "thesis": ["High polynomial degree DG-FEM for multigroup radiative transfer equations on triangular unstructured meshes"]
+    }
+  ],
+  "work": [
+    {
+      "name": "Universidad Politécnica de Madrid",
+      "position": "Teaching assistant",
+      "url": "",
+      "startDate": "2018-05",
+      "endDate": "2022-01",
+      "courses": ["Numerical Methods"],
+      "highlights": ""
     }
   ],
   "languages": [
