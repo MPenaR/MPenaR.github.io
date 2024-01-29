@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Aerospace Engineering. #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. in Aerospace Engineering. #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
