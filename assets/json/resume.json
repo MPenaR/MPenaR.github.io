@@ -25,9 +25,7 @@
       "startDate": "2016-01-01",
       "endDate": "2021-03-21",
       "score": "Cum Laude",
-      "courses": [
-        "Application of a topological derivative based inversion method to infrared thermography damage detection and electromagnetic imaging"
-      ]
+      "thesis": "Application of a topological derivative based inversion method to infrared thermography damage detection and electromagnetic imaging"
     },
     {
       "institution": "Universidad Politécnica de Madrid",
@@ -38,7 +36,7 @@
       "startDate": "2015-09-01",
       "endDate": "2017-06-18",
       "score": "8.21",
-      "courses": ["Detección de daño en estructuras mediante el análisis de termografías"]
+      "thesis": "Detección de daño en estructuras mediante el análisis de termografías"
     },
     {
       "institution": "Universidad Politécnica de Madrid",
@@ -49,7 +47,7 @@
       "startDate": "2009-09-01",
       "endDate": "2015-11-21",
       "score": "7.31",
-      "thesis": ["High polynomial degree DG-FEM for multigroup radiative transfer equations on triangular unstructured meshes"]
+      "thesis": "High polynomial degree DG-FEM for multigroup radiative transfer equations on triangular unstructured meshes"
     }
   ],
   "work": [
