@@ -55,22 +55,43 @@
       "name": "Multifrequency Linear Sampling Method on Experimental Datasets",
       "publisher": "IEEE Transactions on Antennas and Propagation",
       "releaseDate": "2023-11",
-      "url": "10.1109/TAP.2023.3298974 ",
+      "url": "https://doi.org/10.1109/TAP.2023.3298974",
       "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Processing the 2D and 3D Fresnel experimental databases via topological derivative methods",
+      "publisher": "Inverse Problems",
+      "releaseDate": "2021-10-01",
+      "url": "https://doi.org/10.1088/1361-6420/ac21c8",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Application of the topological derivative to post-processing infrared time-harmonic thermograms for defect detection",
+      "publisher": "Journal of Mathematics in Industry",
+      "releaseDate": "2020-12",
+      "url": "http://dx.doi.org/10.1186/s13362-020-0072-9",
+      "summary": ""
+    },
+    {
+      "name": "Damage Detection in Thin Plates via Time-Harmonic Infrared Thermography",
+      "publisher": " Progress in Industrial Mathematics at ECMI 2018",
+      "releaseDate": "2019",
+      "url": "http://dx.doi.org/10.1007/978-3-030-27550-1_81",
+      "summary": ""
+    },
+    {
+      "name": "Detecting Damage in Thin Plates by Processing Infrared Thermographic Data with Topological Derivatives",
+      "publisher": "Advances in Mathematical Physics",
+      "releaseDate": "2019",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85060181732&partnerID=MN8TOARS",
+      "summary": ""
+    },
+    {
+      "name": "Damage detection in two-dimensional plates via infrared thermography",
+      "publisher": "Proceedings of ECCM6/ECFD7",
+      "releaseDate": "2018",
+      "url": "",
+      "summary": ""
     }
   ],
   "work": [
