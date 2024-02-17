@@ -7,7 +7,7 @@ subtitle: Ph.D. in Aerospace Engineering. #<a href='#'>Affiliations</a>. Address
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p><b>Departamento de Matemáticas</b></p>
     <p>Universidad de Oviedo</p>
