@@ -6,6 +6,7 @@ description: Here you can find a list of the courses I've taught over the years.
 nav: true
 nav_order: 6
 # display_categories: [work, fun]
+display_categories: [UPM, UNIOVI]
 horizontal: false
 ---
 
